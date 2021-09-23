@@ -1,0 +1,19 @@
+.footer {
+  position: absolute;
+  top: 90vh;
+  height: 10vh;
+  width: 100vw;
+  border-top: 1px solid steelblue;
+}
+.v-row {
+  display: flex;
+  flex-direction: row;
+}
+.v-col {
+  display: flex;
+  flex-direction: column;
+}
+.footer-column {
+  margin-left: 10%;
+  margin-right: 10%;
+}
